@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Víctor
 
-<!--
-**fishellVvv/fishellVvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de FP DAW | 📊 Analista de datos | 🏍️ Apasionado del motociclismo  
+💻 Aprendiendo Java, Python, HTML/CSS y desarrollo Full Stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Repositorios destacados
+
+🔹 [ProgProjectsJava](https://github.com/fishellVvv/ProgProjectsJava) – Retos y ejercicios de Java
+🔹 [MPO_projects_python](https://github.com/fishellVvv/MPO_projects_python) – Retos y ejercicios de Python
+🔹 [LdM-projects-web](https://github.com/fishellVvv/LdM-projects-web) – etos y ejercicios de HTML y lenguaje de marcas
+
+---
+
+## 📫 Puedes encontrarme en:
+
+- ✉️ [victorvigilvela@gmail.com](mailto:victorvigilvela@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/victorvigil)
