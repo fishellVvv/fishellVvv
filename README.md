@@ -9,7 +9,7 @@
 
 🔹 [ProgProjectsJava](https://github.com/fishellVvv/ProgProjectsJava) – Retos y ejercicios de Java
 🔹 [MPO_projects_python](https://github.com/fishellVvv/MPO_projects_python) – Retos y ejercicios de Python
-🔹 [LdM-projects-web](https://github.com/fishellVvv/LdM-projects-web) – etos y ejercicios de HTML y lenguaje de marcas
+🔹 [LdM-projects-web](https://github.com/fishellVvv/LdM-projects-web) – Retos y ejercicios de HTML y lenguaje de marcas
 
 ---
 
